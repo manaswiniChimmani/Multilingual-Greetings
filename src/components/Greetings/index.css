@@ -1,0 +1,20 @@
+.bg-container {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1 {
+  font-size: 23px;
+}
+.language-buttons {
+  list-style-type: none;
+  display: flex;
+}
+.lan-img {
+  width: 100px;
+}

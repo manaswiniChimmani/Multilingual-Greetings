@@ -1,0 +1,18 @@
+.active {
+  background-color: #db1c48;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.inactive {
+  background-color: #ffffff;
+  color: #db1c48;
+  font-family: 'Roboto';
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #db1c48;
+  margin-right: 10px;
+}
